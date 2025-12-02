@@ -8,7 +8,7 @@ const projectsData = [
         github: 'https://github.com/Kartikpatidar0006/Myntra_clone',
         demo: '#',
         image: './myntra.png',
-        category: 'Frontend'
+        category: 'Frontend'   
     },
     {
         id: 2,
