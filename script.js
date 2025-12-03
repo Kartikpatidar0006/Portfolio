@@ -6,7 +6,7 @@ const projectsData = [
         description: 'Basic frontend clone with product listing, search, and cart functionality.',
         techStack: ['HTML', 'CSS'],
         github: 'https://github.com/Kartikpatidar0006/Myntra_clone',
-        demo: '#',
+        demo: 'https://kartikpatidar0006.github.io/Myntra_clone/',
         image: './myntra.png',
         category: 'Frontend'   
     },
@@ -16,7 +16,7 @@ const projectsData = [
         description: 'basic frontend clone with product listing, search, and cart functionality.',
         techStack: ['HTML', 'CSS'],
         github: 'https://github.com/Kartikpatidar0006/Amazon_clone',
-        demo: '#',
+        demo: 'https://kartikpatidar0006.github.io/Amazon_clone/',
         image: './amazon.png',
         category: 'Frontend'
     },
